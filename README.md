@@ -1,3 +1,7 @@
+This is a Customer Support Bot using a Free Groq API built using NextJS. 
+This is part of the HeadstarterAI fellowship software engineering projects.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
